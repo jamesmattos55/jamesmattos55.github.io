@@ -9,12 +9,12 @@ Career Buddy Todd Nordquist.
 * [Resume](Copy of Resume.pdf)
 ## Proffesional Development
 
-#skills
+# skills
 *Hardworking
 *Very Fast Learner
 *Good with Technology
 
-#Work Experience
+# Work Experience
 *Millitary
   *Work ethic.
   *Small group leadership.
@@ -22,6 +22,6 @@ Career Buddy Todd Nordquist.
   *Mission First Mindset.
   *Decision Making.
   
-#Elevator Pitch
+# Elevator Pitch
 
 
