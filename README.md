@@ -27,16 +27,9 @@ Career Buddy Todd Nordquist.
   to make peoples lives easier, and to help anyone who needs a mobile application, whether its
   for a company or personal use. Thank you for your time that you took reading this, and I hope 
   you will contact me for a meeting if you ever need an honest, hard-working mobile developer. <text/>
- *
- *
- *
- *
- *
- *
- 
  
   
-  <20190130_094955[47].jpg>
+  20190130_094955[47].jpg
   
   <text>  I chose these pictures out of many random others, as I thought they are an accurate representation
   of where I feel I am in life, and where I want to be, respectively.
@@ -50,15 +43,11 @@ Career Buddy Todd Nordquist.
   to the point where they can enjoy themselves and are confident in their wisdom and abilities to achieve
   their goal. <text/>
  
- *
- *
- *
- *
- *
+
   
  # Burner Activity
  
- <prodev burner.PNG>
+ prodev burner.PNG
   
   
   
