@@ -23,5 +23,11 @@ Career Buddy Todd Nordquist.
   *Decision Making.
   
 # Elevator Pitch
+  My name is James Mattos, i'm a junior android developer and I want to make useful apps
+  to make peoples lives easier, and to help anyone who needs a mobile application, whether its
+  for a company or personal use. Thank you for your time that you took reading this, and I hope 
+  you will contact me for a meeting if you ever need an honest, hard-working mobile developer.
+  
+  
 
 
