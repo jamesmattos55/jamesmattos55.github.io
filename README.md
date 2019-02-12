@@ -23,13 +23,13 @@ Career Buddy Todd Nordquist.
   *Decision Making.
   
 # Elevator Pitch
-  My name is James Mattos, i'm a junior android developer and I want to make useful apps
+<    My name is James Mattos, i'm a junior android developer and I want to make useful apps
   to make peoples lives easier, and to help anyone who needs a mobile application, whether its
   for a company or personal use. Thank you for your time that you took reading this, and I hope 
-  you will contact me for a meeting if you ever need an honest, hard-working mobile developer.
+  you will contact me for a meeting if you ever need an honest, hard-working mobile developer. />
   
   (20190130_094955[47].jpg)
-    I chose these pictures out of many random others, as I thought they are an accurate representation
+  <  I chose these pictures out of many random others, as I thought they are an accurate representation
   of where I feel I am in life, and where I want to be, respectively.
     The first photo is of two Marine Corps color gaurds, walking through what seems to be a green neighborhood
   of some sort. While it may seem like a stretch, I see my self as these Men because I too am in the military, and 
@@ -39,7 +39,9 @@ Career Buddy Todd Nordquist.
     The latter photo is where I want to be. Now at first glance it may not seem like much, or even somewhat pathetic
   of a goal to have. But thats not what I see. In the photo I see a group of expierenced workers who have gotten
   to the point where they can enjoy themselves and are confident in their wisdom and abilities to achieve
-  their goal.
+  their goal. />
+  
+ #
   
   
   
