@@ -28,7 +28,7 @@ Career Buddy Todd Nordquist.
   for a company or personal use. Thank you for your time that you took reading this, and I hope 
   you will contact me for a meeting if you ever need an honest, hard-working mobile developer.
   
-  20190130_094955[47].jpg
+  (20190130_094955[47].jpg)
     I chose these pictures out of many random others, as I thought they are an accurate representation
   of where I feel I am in life, and where I want to be, respectively.
     The first photo is of two Marine Corps color gaurds, walking through what seems to be a green neighborhood
