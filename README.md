@@ -29,7 +29,7 @@ Career Buddy Todd Nordquist.
   you will contact me for a meeting if you ever need an honest, hard-working mobile developer. <text/>
   
   (20190130_094955[47].jpg)
-  <  I chose these pictures out of many random others, as I thought they are an accurate representation
+  <text>  I chose these pictures out of many random others, as I thought they are an accurate representation
   of where I feel I am in life, and where I want to be, respectively.
     The first photo is of two Marine Corps color gaurds, walking through what seems to be a green neighborhood
   of some sort. While it may seem like a stretch, I see my self as these Men because I too am in the military, and 
@@ -39,7 +39,7 @@ Career Buddy Todd Nordquist.
     The latter photo is where I want to be. Now at first glance it may not seem like much, or even somewhat pathetic
   of a goal to have. But thats not what I see. In the photo I see a group of expierenced workers who have gotten
   to the point where they can enjoy themselves and are confident in their wisdom and abilities to achieve
-  their goal. />
+  their goal. <text/>
   
  #
   
